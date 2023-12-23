@@ -1,0 +1,19 @@
+body {
+    background-color: white;
+    background-image:url("1000_F_543572552_sozM17485dVSBpE1x95uzlUG4z0cNMTP.jpg") ;
+    background-position: center;
+    
+}
+
+h1 {
+    color: rgb(131, 240, 131);
+    text-align: center;
+    text-size-adjust: 50;
+
+}
+
+h2 {
+    color: red;
+    text-align: center;
+    text-size-adjust: 50;
+}
